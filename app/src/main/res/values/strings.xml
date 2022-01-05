@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Egypt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cairo">Cairo</string>
+    <string name="alex">Alex</string>
+    <string name="aswan">Aswan</string>
+    <string name="sharm">Sharm el Sheikh</string>
+    <string name="citadel_of_Qaitbay">Citadel of Qaitbay</string>
+    <string name="maktbt_alex">Bibliotheca Alexandrina</string>
+    <string name="kasr_elmontazah">Montaza Palace</string>
+    <string name="pillar">Serapeum and Pompey\'s Pillar</string>
+    <string name="mat7f_eskndrya">Alexandria National Museum</string>
+    <string name="royal">Royal Jewellery Museum</string>
+    <string name="stanley">Stanley Bridge</string>
+    <string name="tiran">Tiran Island</string>
+    <string name="ras_mohamed">Ras Mohamed Nature Reserve</string>
+    <string name="nabq">Nabq Nature Reserve</string>
+    <string name="jabalmoussa">Jabal Mousa</string>
+    <string name="heavenlycath">The Heavenly Cathedral</string>
+    <string name="sohosquare">Soho square</string>
+    <string name="saintcath">Saint Catherine\'s Monastery</string>
+    <string name="nubian">Nubian Museum</string>
+    <string name="unfinished">Unfinished Obelisk</string>
+    <string name="elephantine">Elephantine</string>
+    <string name="kitcher">Kitchener\'s Island</string>
+    <string name="aga">Aga Khan Mausoleum</string>
+    <string name="qubbet">Qubbet el-Hawa</string>
+    <string name="botanical">Aswan Botanical Garden</string>
+    <string name="pyramids">Pyramids</string>
+    <string name="mat7afmasry">The Egyptian Museum</string>
+    <string name="gam3">Mosque of Muhammad Ali</string>
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="khan">Khan el-Khalili</string>
+    <string name="church">The Hanging Church</string>
+    <string name="mus_islamic">Museum of Islamic Art Cairo</string>
+
+
+
+
+
+</resources>
